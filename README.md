@@ -10,10 +10,7 @@ This script performs the following steps:
 HOW TO USE:
 
 git clone https://github.com/HabibSuffni/Subdomain-Scanner-and-Analyzer.git
-
 cd Subdomain-Scanner-and-Analyzer
-
 chmod +x Domain_Discovery_V2.1.sh 
-
 ./Domain_Discovery_V2.1.sh HOST_FILE
 
